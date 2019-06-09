@@ -1,13 +1,12 @@
 #De 0 a Pygrammer:
 
-##1. Python para Newbies - Parte 1:
+##Python para Newbies - Parte 1: Introduccion
 
 1. Introducción
  * El origen
  * ¿Qué es Python?
  * ¿Por qué Python?
  * Implementaciones
- * Versiones Python
 
 2. Instalación
  * Instalación en Sistemas Linux
@@ -23,12 +22,25 @@
  * Guia de Virtualenv
  * Guia entorno virtual Python 3
 
-6. Guia de estilo de código
+6. Modo interactivo
+ * Introspección en Python
+
+7. Guia de estilo de código
  * PEP 8
 
-##1. Python para Newbies - Parte 2:
+##Python para Newbies - Parte 2: Tipos y estructura de datos
+1. Variables y constantes
+2. Operadores de asignación
+3. Operadores aritmeticos
+4. Operadores relacionales
+5. Tipo números
+6. Tipo booleanos
+7. Tipo cadena de caracteres
+8. Tipo listas
+9. Tipo tuplas
+10. Tipo diccionarios
+11. Tipo conjuntos
 
+##Python para Newbies - Parte 3:
 
-##1. Python para Newbies - Parte 3:
-
-##1. Python para Newbies - Parte 4:
+##Python para Newbies - Parte 4:
