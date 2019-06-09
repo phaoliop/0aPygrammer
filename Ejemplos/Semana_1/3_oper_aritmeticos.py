@@ -1,3 +1,8 @@
+'''
+    Author: Paolo
+    Ejemplo Operadores aritmeticos
+'''
+
 a, b = 4,18
 
 print("-"*30)

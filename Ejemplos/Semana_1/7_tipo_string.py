@@ -1,4 +1,5 @@
 '''
+    Author: Paolo
     EJEMPLOS TIPO STR
 '''
 

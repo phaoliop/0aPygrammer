@@ -1,6 +1,6 @@
-#De 0 a Pygrammer:
+# De 0 a Pygrammer:
 
-##Python para Newbies - Parte 1: Introduccion
+## Python para Newbies - Parte 1: Introduccion
 
 1. Introducción
  * El origen
@@ -28,7 +28,7 @@
 7. Guia de estilo de código
  * PEP 8
 
-##Python para Newbies - Parte 2: Tipos y estructura de datos
+## Python para Newbies - Parte 2: Tipos y estructura de datos
 1. Variables y constantes
 2. Operadores de asignación
 3. Operadores aritmeticos
@@ -41,6 +41,12 @@
 10. Tipo diccionarios
 11. Tipo conjuntos
 
-##Python para Newbies - Parte 3:
+## Python para Newbies - Parte 3:
+1. Condicionales
+2. Operadores lógicos
+3. Bucles
+4. Iteradores
+5. Funciones
+6. Modulo argparse
 
-##Python para Newbies - Parte 4:
+## Python para Newbies - Parte 4:
