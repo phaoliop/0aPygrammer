@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b269a8e2-cd37-4158-8f38-e5fbfad85fc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Ejemplos/Semana_2/Test_sudoku_solution_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/Semana_2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/Semana_2/alumnos_python.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo2-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/Semana_2/find_the_unique_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/Semana_2/my_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/Semana_2/rgb_to_hex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/Semana_2/string_character_frequency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/Semana_2/sudoku_solution_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejemplos/__init__.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/my_app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/alumnos_python.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/string_character_frequency.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="11" column="74" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/sudoku_solution_validator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/rgb_to_hex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/Test_sudoku_solution_validator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>assert_equals</find>
+      <find>Test</find>
+      <find>#-</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Ejemplos/Semana_2/rgb_to_hex.py" />
+        <option value="$PROJECT_DIR$/Ejemplos/__init__.py" />
+        <option value="$PROJECT_DIR$/Ejemplos/Semana-2/test.py" />
+        <option value="$PROJECT_DIR$/Ejemplos/Semana_2/__init__.py" />
+        <option value="$PROJECT_DIR$/Ejemplos/Semana_2/Test_sudoku_solution_validator.py" />
+        <option value="$PROJECT_DIR$/Ejemplos/Semana_2/find_the_unique_number.py" />
+        <option value="$PROJECT_DIR$/Ejemplos/Semana_2/string_character_frequency.py" />
+        <option value="$PROJECT_DIR$/Ejemplos/Semana_2/sudoku_solution_validator.py" />
+        <option value="$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo1.py" />
+        <option value="$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo2.py" />
+        <option value="$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo2-1.py" />
+        <option value="$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo3.py" />
+        <option value="$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo4.py" />
+        <option value="$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo5.py" />
+        <option value="$PROJECT_DIR$/Ejemplos/Semana_2/mi_app.py" />
+        <option value="$PROJECT_DIR$/Ejemplos/Semana_2/my_app.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/0aPygrammer.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1279" />
+    <option name="height" value="701" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="0aPygrammer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="0aPygrammer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="0aPygrammer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="0aPygrammer" type="462c0819:PsiDirectoryNode" />
+              <item name="Ejemplos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="0aPygrammer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="0aPygrammer" type="462c0819:PsiDirectoryNode" />
+              <item name="Ejemplos" type="462c0819:PsiDirectoryNode" />
+              <item name="Semana_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ejemplos/Semana_2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ejemplos/Semana_2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ejemplos/Semana_2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.my_app">
+    <configuration name="ejemplo2-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="0aPygrammer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejemplos/Semana_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo2-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ejemplo3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="0aPygrammer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejemplos/Semana_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ejemplo4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="0aPygrammer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejemplos/Semana_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ejemplo5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="0aPygrammer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejemplos/Semana_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="0aPygrammer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejemplos/Semana_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejemplos/Semana_2/my_app.py" />
+      <option name="PARAMETERS" value="-f alumnos_python.csv" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ejemplo2-1" />
+      <item itemvalue="Python.ejemplo3" />
+      <item itemvalue="Python.ejemplo4" />
+      <item itemvalue="Python.ejemplo5" />
+      <item itemvalue="Python.my_app" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.my_app" />
+        <item itemvalue="Python.ejemplo5" />
+        <item itemvalue="Python.ejemplo4" />
+        <item itemvalue="Python.ejemplo3" />
+        <item itemvalue="Python.ejemplo2-1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b269a8e2-cd37-4158-8f38-e5fbfad85fc9" name="Default Changelist" comment="" />
+      <created>1560610316686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560610316686</updated>
+      <workItem from="1560610336416" duration="11324000" />
+      <workItem from="1560634479487" duration="30000" />
+      <workItem from="1560634553001" duration="6602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_Test_sudoku_solution_validator_py - 2019.06.15 at 11h 48m 22s.xml">
+      <configuration name="Unittests in Test_sudoku_solution_validator.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_rgb_to_hex_py - 2019.06.15 at 12h 01m 55s.xml">
+      <configuration name="Unittests in rgb_to_hex.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Test_sudoku_solution_validator_py - 2019.06.15 at 12h 13m 55s.xml">
+      <configuration name="Unittests in Test_sudoku_solution_validator.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Test_sudoku_solution_validator_py - 2019.06.15 at 12h 14m 22s.xml">
+      <configuration name="Unittests in Test_sudoku_solution_validator.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_find_the_unique_number_py - 2019.06.15 at 16h 41m 40s.xml">
+      <configuration name="Unittests in find_the_unique_number.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_find_the_unique_number_py - 2019.06.15 at 16h 42m 12s.xml">
+      <configuration name="Unittests in find_the_unique_number.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_find_the_unique_number_py - 2019.06.15 at 16h 44m 09s.xml">
+      <configuration name="Unittests in find_the_unique_number.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_string_character_frequency_py - 2019.06.15 at 16h 54m 59s.xml">
+      <configuration name="Unittests in string_character_frequency.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_string_character_frequency_py - 2019.06.15 at 16h 55m 14s.xml">
+      <configuration name="Unittests in string_character_frequency.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_string_character_frequency_py - 2019.06.15 at 16h 56m 16s.xml">
+      <configuration name="Unittests in string_character_frequency.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17956000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="27" width="957" height="741" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.06805708" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.3289256" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.22479339" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/0aPygrammer$ejemplo2.coverage" NAME="ejemplo2 Coverage Results" MODIFIED="1560637183156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejemplos/Semana_2" />
+    <SUITE FILE_PATH="coverage/0aPygrammer$ejemplo5.coverage" NAME="ejemplo5 Coverage Results" MODIFIED="1560638811087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejemplos/Semana_2" />
+    <SUITE FILE_PATH="coverage/0aPygrammer$Unittests_in_sudoku_solution_validator_py.coverage" NAME="Unittests in Test_sudoku_solution_validator.py Coverage Results" MODIFIED="1560616943426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejemplos/Semana_2" />
+    <SUITE FILE_PATH="coverage/0aPygrammer$ejemplo2_1.coverage" NAME="ejemplo2-1 Coverage Results" MODIFIED="1560637450353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejemplos/Semana_2" />
+    <SUITE FILE_PATH="coverage/0aPygrammer$Unittests_in_rgb_to_hex_py.coverage" NAME="Unittests in rgb_to_hex.py Coverage Results" MODIFIED="1560618114995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejemplos/Semana_2" />
+    <SUITE FILE_PATH="coverage/0aPygrammer$my_app.coverage" NAME="my_app Coverage Results" MODIFIED="1560641066688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejemplos/Semana_2" />
+    <SUITE FILE_PATH="coverage/0aPygrammer$ejemplo1.coverage" NAME="ejemplo1 Coverage Results" MODIFIED="1560636699855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejemplos/Semana_2" />
+    <SUITE FILE_PATH="coverage/0aPygrammer$sudoku_solution_validator.coverage" NAME="sudoku_solution_validator Coverage Results" MODIFIED="1560618680624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejemplos/Semana_2" />
+    <SUITE FILE_PATH="coverage/0aPygrammer$ejemplo4.coverage" NAME="ejemplo4 Coverage Results" MODIFIED="1560638254386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejemplos/Semana_2" />
+    <SUITE FILE_PATH="coverage/0aPygrammer$Unittests_in_Test_sudoku_solution_validator_py.coverage" NAME="Unittests in Test_sudoku_solution_validator.py Coverage Results" MODIFIED="1560618861797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejemplos/Semana_2" />
+    <SUITE FILE_PATH="coverage/0aPygrammer$ejemplo3.coverage" NAME="ejemplo3 Coverage Results" MODIFIED="1560638065519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejemplos/Semana_2" />
+    <SUITE FILE_PATH="coverage/0aPygrammer$Unittests_in_find_the_unique_number_py.coverage" NAME="Unittests in find_the_unique_number.py Coverage Results" MODIFIED="1560635048656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejemplos/Semana_2" />
+    <SUITE FILE_PATH="coverage/0aPygrammer$Unittests_in_string_character_frequency_py.coverage" NAME="Unittests in string_character_frequency.py Coverage Results" MODIFIED="1560635775772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ejemplos/Semana_2" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana-2/test.py" />
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana-2/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_22/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/find_the_unique_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/string_character_frequency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="11" column="74" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/Test_sudoku_solution_validator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/sudoku_solution_validator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/rgb_to_hex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo2-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/ejemplo5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/mi_app.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/alumnos_python.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/Semana_2/my_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
